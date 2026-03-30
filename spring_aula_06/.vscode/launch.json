@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PessoalApplication<pessoal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gerenciador.pessoal.PessoalApplication",
+            "projectName": "pessoal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
